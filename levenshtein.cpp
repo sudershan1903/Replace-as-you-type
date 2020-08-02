@@ -50,7 +50,7 @@ int lev(string a1,string a2)
         }
     s1[0]='-';
     for(int i=0;i<l1;i++)
-            //cout<<s1[i];
+            cout<<s1[i];
             cout<<endl;
 
     for(int j=l2+1; j>=0; j--)
@@ -60,7 +60,7 @@ int lev(string a1,string a2)
         }      // cout<<A[i][j]<<endl;
     s2[0]='-';
     for(int j=0;j<l2;j++)
-            //cout<<s2[j];
+            cout<<s2[j];
             cout<<endl;
 
 
